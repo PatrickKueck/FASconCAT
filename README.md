@@ -10,4 +10,4 @@ options have to be typed in one row in the terminal. Starting AMARE via command
 line simplies the implementation of AMARE into complex process pipelines. Navigate
 through your directory path to the folder where AMARE and your files are located and
 type the name of the AMARE version, followed by a blank and the demanded setup
-options with a minus (-) sign in front of each. Then press <enter>.
+options with a minus (-) sign in front of each. Then press enter.
